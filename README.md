@@ -1,2 +1,4 @@
 # akatezhou.github.io
-XD
+
+empty site
+more projects to come!
